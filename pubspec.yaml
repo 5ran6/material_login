@@ -1,8 +1,8 @@
 name: material_login
-description: A simple login activity using material design
+description: A simple login UI using Material Design guidelines
 version: 0.0.1
-author:
-homepage:
+author: Ocholi Francis<5raan6@gmail.com>
+homepage: https://github.com/5ran6/material_login.git
 
 environment:
   sdk: ">=2.1.0 <3.0.0"

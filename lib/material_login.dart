@@ -2,11 +2,12 @@ library material_login;
 
 import 'package:flutter/material.dart';
 
-class matrial_login extends StatelessWidget {
+class MaterialLogin extends StatelessWidget{
   @override
   Widget build(BuildContext context) {
     // TODO: implement build
     return MaterialApp(
+
       home: Scaffold(
         body: SafeArea(
           child: Column(
